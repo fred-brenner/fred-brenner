@@ -1,0 +1,11 @@
+<svg width="495" height="170" viewBox="0 0 495 170" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub stats</title>
+  <desc id="desc">Placeholder card generated before the scheduled README stats workflow runs.</desc>
+  <rect width="495" height="170" rx="4.5" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="494" height="169" rx="4" stroke="#30363d"/>
+  <text x="28" y="48" fill="#58a6ff" font-family="Segoe UI, Ubuntu, sans-serif" font-size="20" font-weight="600">GitHub Stats</text>
+  <text x="28" y="86" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14">Private-inclusive card will appear here</text>
+  <text x="28" y="114" fill="#8b949e" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">after the Update README cards workflow runs.</text>
+  <circle cx="438" cy="54" r="22" fill="#161b22" stroke="#58a6ff" stroke-width="3"/>
+  <path d="M428 55l7 7 16-18" stroke="#3fb950" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
