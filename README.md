@@ -2,7 +2,7 @@
 
 Building AI tools, chart dashboards, BeatSaber automappers, and useful little hacks.
 
-I like turning noisy inputs into things you can actually use: crypto dashboards, music-to-map experiments, local AI apps, sensor projects, and prototypes that start with "what if this worked?"
+I like turning noisy inputs into things you can actually use: crypto dashboards, music experiments, local AI apps, sensor projects, and prototypes that start with "what if this worked?"
 
 <p align="center">
   <img alt="tiny market chaos" src="./assets/gifs/market-chaos.gif" width="320">
