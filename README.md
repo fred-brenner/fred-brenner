@@ -1,6 +1,6 @@
 ### Hi, I'm Fred
 
-Building AI tools, chart dashboards, BeatSaber automappers, and useful little hacks.
+Building AI tools, dashboards, BeatSaber automappers, and useful little hacks.
 
 I like turning noisy inputs into things you can actually use: crypto dashboards, music experiments, local AI apps, sensor projects, and prototypes that start with "what if this worked?"
 
@@ -10,7 +10,7 @@ I like turning noisy inputs into things you can actually use: crypto dashboards,
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img alt="Skills" src="https://skillicons.dev/icons?i=python,fastapi,js,html,css,git,githubactions,linux,vscode,pycharm&theme=dark&perline=10">
+    <img alt="Skills" src="https://skillicons.dev/icons?i=python,git,pycharm,raspberrypi,arduino,sklearn,tensorflow,ros,opencv,matlab,r,fastapi,postman,postgres,js,html,css,docker,githubactions,gitlab,aws,gcp,linux,redhat,kali,windows,powershell,apple,vscode,discord&theme=dark&perline=10">
   </a>
 </p>
 
